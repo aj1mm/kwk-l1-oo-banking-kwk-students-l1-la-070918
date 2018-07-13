@@ -1,3 +1,5 @@
 class BankAccount
-  # code here
+BankAccount.new 
+
+  
 end
